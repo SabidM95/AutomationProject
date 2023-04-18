@@ -1,6 +1,6 @@
 # AutomationProject
 
-How to run my code:
+How to run this code:
 1. Download cypress (follow instructions online) // do npm install to have all proper packages
 2. In terminal, run this command:
 
